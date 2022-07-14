@@ -1,5 +1,5 @@
 {
-    "name": " Music Bot",
+    "name": " Music Bot Rib",
     "description": "Telegram bot for Streaming  Music trought the Telegram Group Video Chat, powered by pytgcalls and pyrogram",
     "logo": "https://telegra.ph/file/f6d20eb3b3a7c810c09a0.jpg",
     "keywords": [
@@ -8,7 +8,7 @@
         "pyrogram"
     ],
     "website": "https://t.me/Murat_30_God",
-    "repository": "https://github.com/kaal0408/Music",
+    "repository": "https://github.com/ribfirst/Music",
     "success_url": "https://t.me/Murat_30_God",
     "env": {
         "API_ID": {
